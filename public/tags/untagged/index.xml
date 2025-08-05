@@ -6,8 +6,15 @@
     <description>Recent content in Untagged on Oli Phillips</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Aug 2025 09:20:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 14:10:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Cycle in Years</title>
+      <link>http://localhost:1313/posts/first-cycle-in-years/</link>
+      <pubDate>Tue, 05 Aug 2025 14:10:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-cycle-in-years/</guid>
+      <description>&lt;h2 id=&#34;starting-over&#34;&gt;Starting Over&lt;a href=&#34;#starting-over&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xD;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xD;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xD;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xD;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Ten years ago, I rode 118 miles in a single day. That ride still sticks with me today — not just because of the distance, but because it feels like one of the biggest things I’ve done to this day.&lt;br&gt;&#xA;Since then, I’ve barely touched a bike.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test Post</title>
       <link>http://localhost:1313/posts/test-post/</link>
