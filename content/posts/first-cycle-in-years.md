@@ -60,7 +60,8 @@ Still, we had a great time, as we sat there and admired the freshly serviced bik
 
 ## What’s Next?
 
-I don’t know.  
+I don’t know.
+
 A new interest of mine could last 3 days or 3 years — I can never tell. I just hope this one sticks around.
 
 I’m going to keep it small and work up, and try and get a cycle to my parents and back one weekend, which is about 30 miles each way. I think this is a good goal to aim for right now.
