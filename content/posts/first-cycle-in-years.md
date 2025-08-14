@@ -4,6 +4,7 @@ date: 2025-08-05T14:10:33+01:00
 draft: false
 toc: false
 description: "Getting back on the bike after a decade, and the first ride that restarted it all."
+featured_image: "/images/wells-beach-huts.jpg"
 images: 
   - images/wells-beach-huts.jpeg
 tags: 
