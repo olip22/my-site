@@ -10,6 +10,7 @@ tags:
   - cycling
 ---
 
+![Alt text](/images/wells-beach-huts.jpg)
 
 ## Starting Over
 
