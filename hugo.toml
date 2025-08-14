@@ -2,6 +2,7 @@ baseURL = 'https://olip22.github.io/my-site/'
 languageCode = 'en-us'
 title = 'Oli Phillips'
 theme = "ananke"
+canonifyURLs = true
 
 [caches]
   [caches.images]
