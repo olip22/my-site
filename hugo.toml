@@ -5,7 +5,7 @@ theme = "ananke"
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/my-site/images'
+    dir = ':cacheDir/images'
 
 [params]
   homeSubtitle = "just things I like."
