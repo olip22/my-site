@@ -10,7 +10,7 @@ tags:
   - cycling
 ---
 
-![Alt text](images/wells-beach-huts.jpg)
+{{< figure src="/images/wells-beach-huts.jpg" alt="Alt text" >}}
 
 ## Starting Over
 
