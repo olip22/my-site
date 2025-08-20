@@ -1,15 +1,23 @@
 baseURL = 'https://olip22.github.io/my-site/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Oli Phillips'
 theme = "ananke"
+resourceDir = "../resources"
+canonifyURLs = false
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [params]
-  homeSubtitle = "just things I like."
-  homeSubtitlePrinter = true
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
 
 [menu]
 
