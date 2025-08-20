@@ -5,12 +5,12 @@ draft: false
 toc: false
 description: "Getting back on the bike after a decade, and the first ride that restarted it all."
 images: 
-  - images/wells-beach-huts.jpeg
+  - images/25-08-04_diss-cycle-02.webp
 tags: 
   - cycling
 ---
 
-![Alt text](/images/wells-beach-huts.jpg)
+![Alt text](/images/25-08-04_diss-cycle-02.webp)
 
 ## Starting Over
 
