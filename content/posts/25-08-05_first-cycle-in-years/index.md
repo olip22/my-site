@@ -4,13 +4,10 @@ date: 2025-08-05T14:10:33+01:00
 draft: false
 toc: false
 description: "Getting back on the bike after a decade."
-featured_image: "25-08-04_diss-cycle-02.webp"
+featured_image: "25-08-04_diss-cycle-01.webp"
 tags: 
   - cycling
 ---
-
-![Alt text](25-08-04_diss-cycle-02.webp)
-{{< figure src="25-08-04_diss-cycle-02.webp" title="Picture at the pub." >}}
 
 ## Starting Over
 
@@ -18,15 +15,13 @@ Ten years ago, I rode 118 miles in a single day. That ride still sticks with me 
 
 Since then, I’ve barely touched a bike.
 
-I’ve probably only ridden a handful of times each year. I’d hop on for the odd 3-mile trip every now and then, but nothing serious. To add to this, I was in a bit of a car accident in 2017 which I never really put the effort into physio afterwards, and I haven’t got my legs — especially my knees — back to full strength since.
+I’ve probably only ridden a handful of times each year. I’d hop on for the odd 3-mile trip every now and then, but nothing serious. To add to this, I was in a bit of a car accident in 2017 and I never really put the effort into physio afterwards. I haven’t got my legs, especially my knees, back to full strength since.
 
 ## Why Now?
 
 Despite my lovely partner's suggestions to cycle together, and ride to the shops, etc., I never really felt that pull.
 
-{{< figure src="25-08-04_diss-cycle-02.webp" title="Right-aligned image" align="right" width="40%" >}}
-
-Then I watched a YouTube video by Mumbo Jumbo. He casually dropped in that he once cycled from the UK to Rome. He just… mentioned it, like cycling to Rome is something you can casually go and do. And honestly, I guess you kind of can — if you can get the time off work. That’s something like 2,000km! And that’s what hit me — the scale, the challenge, the places you'd pass through. The sheer awe of doing a journey like that.
+Then I watched a YouTube video by Mumbo Jumbo. He casually dropped in that he once cycled from the UK to Rome. Just mentioned it, like cycling to Rome is something you can casually go and do. And honestly, I guess you kind of can — if you can get the time off work. That’s something like 2,000km! And that’s what hit me — the scale, the challenge, the places you'd pass through. The sheer awe of doing a journey like that.
 
 The moment I get into something new, I start imagining these huge, exciting goals. I build these pictures in my head of what the lifestyle would be, what doing it would be like, where it could take me, and what it would feel like to do.
 
@@ -35,6 +30,8 @@ Although these aren’t always achievable, it never fails to get me really excit
 But you can’t just go from zero to Rome.
 
 ## The First Ride
+
+![Alt text](25-08-04_diss-cycle-01.webp)
 
 Before any big adventures, I needed to start small and actually ride a bike again.
 
@@ -52,6 +49,8 @@ So we turned around and decided we’d go to one that was closer to home on the 
 
 Then of course we knocked over my partner's drink. I was gutted.
 
+![Alt text](25-08-04_diss-cycle-02.webp)
+
 Still, we had a great time, as we sat there and admired the freshly serviced bikes that we love. It was a start. And it felt good.
 
 ### Ride Summary
@@ -67,7 +66,7 @@ I don’t know.
 
 A new interest of mine could last 3 days or 3 years — I can never tell. I just hope this one sticks around.
 
-I’m going to keep it small and work up, and try and get a cycle to my parents and back one weekend, which is about 30 miles each way. I think this is a good goal to aim for right now.
+I’m going to keep it small and work up. Hopefully try and cycle to my parents and back one weekend, which is about 30 miles each way. I think this is a good goal to aim for right now.
 
 I don’t know how that’ll go or what could be after that. But I’m excited to find out.
 
