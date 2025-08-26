@@ -3,15 +3,14 @@ title: "First Cycle in Years"
 date: 2025-08-05T14:10:33+01:00
 draft: false
 toc: false
-description: "Getting back on the bike after a decade, and the first ride that restarted it all."
-featured_image: "/images/25-08-04_diss-cycle-02.webp"
-images: 
-  - images/25-08-04_diss-cycle-02.webp
+description: "Getting back on the bike after a decade."
+featured_image: "25-08-04_diss-cycle-02.webp"
 tags: 
   - cycling
 ---
 
-![Alt text](/images/25-08-04_diss-cycle-02.webp)
+![Alt text](25-08-04_diss-cycle-02.webp)
+{{< figure src="25-08-04_diss-cycle-02.webp" title="Picture at the pub." >}}
 
 ## Starting Over
 
@@ -24,6 +23,8 @@ I’ve probably only ridden a handful of times each year. I’d hop on for the o
 ## Why Now?
 
 Despite my lovely partner's suggestions to cycle together, and ride to the shops, etc., I never really felt that pull.
+
+<img src="25-08-04_diss-cycle-02.webp" alt="Img" style="float:right; width:40%; margin:0 1em 1em 1em;">
 
 Then I watched a YouTube video by Mumbo Jumbo. He casually dropped in that he once cycled from the UK to Rome. He just… mentioned it, like cycling to Rome is something you can casually go and do. And honestly, I guess you kind of can — if you can get the time off work. That’s something like 2,000km! And that’s what hit me — the scale, the challenge, the places you'd pass through. The sheer awe of doing a journey like that.
 
