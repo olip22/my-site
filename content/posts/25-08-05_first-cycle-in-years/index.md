@@ -9,6 +9,12 @@ tags:
   - cycling
 ---
 
+<div style="display:flex; gap:1em; flex-wrap:wrap;">
+  <img src="{{ "25-08-04_diss-cycle-01.webp" | relURL }}" style="width:30%">
+  <img src="{{ "25-08-04_diss-cycle-01.webp" | relURL }}" style="width:30%">
+  <img src="{{ "25-08-04_diss-cycle-01.webp" | relURL }}" style="width:30%">
+</div>
+
 ## Starting Over
 
 Ten years ago, I rode 118 miles in a single day. That ride still sticks with me today — not just because of the distance, but because it feels like one of the biggest things I’ve done to this day.
