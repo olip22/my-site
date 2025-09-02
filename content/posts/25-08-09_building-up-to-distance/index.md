@@ -30,6 +30,19 @@ The weather couldn’t have been better: sunny, warm, and perfect for cycling. T
 
 The picnic halfway was a highlight — nothing fancy, just some reduced sandwiches we got from Morrisons. We managed to find a nice grassy patch next to a quiet church. But we didn't stop for too long and we were off - the second half flew by once we’d eaten.
 
+**Total distance:** 15 miles  
+**Weather:** Light rain turning into evening sun  
+**Destination goal:** Failed pub mission (closed!)  
+**Morale:** High
+
+| Detail      | Description |
+| ----------- | ----------- |
+| **Total Distance**      | 15 mile (25 km)       |
+| **Weather**   | Sunny & warm        |
+| **Knees**   | Some aches, but manageable         |
+| **Destination goal**   | Get round, enjoy lunch        |
+| **Morale**   | High — confidence growing       |
+
 ## Fitness, Feeling, and Goals
 
 I’d expected more knee trouble, but managed better than I thought. The ride felt decently long, but the hills were tough — they drained my legs quickly and showed me how far I’ve got to go. I’m hoping my knees keep improving, and I’d love to get faster — hopefully get up to a  15 mph (24 kmh) average in the future.
