@@ -30,13 +30,8 @@ The weather couldn’t have been better: sunny, warm, and perfect for cycling. T
 
 The picnic halfway was a highlight — nothing fancy, just some reduced sandwiches we got from Morrisons. We managed to find a nice grassy patch next to a quiet church. But we didn't stop for too long and we were off - the second half flew by once we’d eaten.
 
-**Total distance:** 15 miles  
-**Weather:** Light rain turning into evening sun  
-**Destination goal:** Failed pub mission (closed!)  
-**Morale:** High
-
-| Detail      | Description |
-| ----------- | ----------- |
+|||
+| :----------- | :----------- |
 | **Total Distance**      | 15 mile (25 km)       |
 | **Weather**   | Sunny & warm        |
 | **Knees**   | Some aches, but manageable         |

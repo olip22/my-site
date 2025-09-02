@@ -1,0 +1,89 @@
+/* table {
+  table-layout: fixed;
+  width: 80%;
+  min-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+}
+
+tr :nth-child(2),
+tr :nth-child(3) {
+  text-align: right;
+  width: 15%;
+}
+
+tr :nth-child(1),
+tr :nth-child(4) {
+  text-align: left;
+  width: 35%;
+}
+
+tfoot tr :nth-child(1) {
+  text-align: right;
+}
+
+tfoot tr :nth-child(2) {
+  text-align: left;
+}
+
+th,
+td {
+  vertical-align: top;
+  padding: 0.3em;
+}
+
+tfoot {
+  border-top: 1px solid #999999;
+} */
+
+/* table {
+  border-collapse: collapse;
+  width: 80%;
+  min-width: 600px;
+  margin: 1em auto;
+}
+
+th, td {
+  border: 1px solid #999999;
+  padding: 0.5em;
+}
+
+th {
+  font-weight: bold;
+}
+
+thead tr {
+  border-bottom: 2px solid #666666;
+}
+
+table tr:first-child th {
+  display: none;
+} */
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  min-width: 600px;
+  margin: 1em auto;
+}
+
+th, td {
+  border: 1px solid #999999;
+  padding: 0.5em;
+}
+
+th {
+  font-weight: bold;
+}
+
+/* thicker line under title row (only shows if headers exist) */
+thead tr {
+  border-bottom: 2px solid #666666;
+}
+
+/* hide dummy/empty headers for "no-title" tables */
+th:empty {
+  display: none;
+}
