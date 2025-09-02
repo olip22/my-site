@@ -7,11 +7,6 @@ description: "A sunny 25 km ride with a picnic halfway. Testing knees, stamina, 
 featured_image: "25-08-09_picnic-ride-01.webp"
 tags:
   - cycling
-resources:
-  - src: "25-08-09_picnic-ride-01.webp"
-    title: "Picnic halfway through our 25 km ride"
-    params:
-      alt: "Picnic lunch on a sunny cycling day"
 ---
 
 ##
@@ -30,22 +25,10 @@ But after eating out the night before, we decided to switch things up and pack a
 
 The weather couldn’t have been better: sunny, warm, and perfect for cycling. The route itself was mostly flat, with a few hills thrown in to keep things interesting. Those climbs were tough and definitely tested my stamina, but the promise of a picnic break kept us motivated.
 
-![Alt text](25-08-09_picnic-ride-01.webp)
-
-{{ with .Resources.Get "25-08-09_picnic-ride-01.webp" }}
-  <figure>
-    <img src="{{ .RelPermalink }}" alt="{{ .Params.alt }}" width="{{ .Width }}" height="{{ .Height }}">
-    <figcaption>{{ .Title }}</figcaption>
-  </figure>
-{{ else }}
-  {{ errorf "Unable to get page resource %q" "25-08-09_picnic-ride-01.webp" }}
-{{ end }}
+![Vanquish Carrera road bike against a tree during our picnic lunch stop on a sunny cycling day](25-08-09_picnic-ride-01.webp)
+*Our bikes at our picnic lunch stop.*
 
 The picnic halfway was a highlight — nothing fancy, just some reduced sandwiches we got from Morrisons. We managed to find a nice grassy patch next to a quiet church. But we didn't stop for too long and we were off - the second half flew by once we’d eaten.
-
-## Fitness and feeling
-
-Overall, the ride felt longer than I expected but still manageable. The flat stretches were fine, but the hills were tough — they drained my legs quickly and showed me how far I’ve got to go. Still, finishing this ride gave me a confidence boost that longer distances are possible.
 
 ## Fitness, Feeling, and Goals
 
