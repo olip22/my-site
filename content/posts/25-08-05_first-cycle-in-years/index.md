@@ -7,6 +7,7 @@ description: "Getting back on the bike after a decade."
 featured_image: "25-08-04_diss-cycle-01.webp"
 tags: 
   - cycling
+summary: "After thinking about past cycling experience, and being inspired by finding out someone had cycled from UK to Rome, I go out for short test ride after years off the bike, seeing how it feels to start cycling again and setting some realistic goals."
 ---
 
 Ten years ago, I rode 118 miles in a single day. That ride still sticks with me today — not just because of the distance, but because it feels like one of the biggest things I’ve done to this day.

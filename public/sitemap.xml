@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-site/posts/25-08-09_building-up-to-distance/</loc>
-    <lastmod>2025-08-09T12:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/my-site/posts/25-08-23_30-mile-ride-home/</loc>
+    <lastmod>2025-08-23T08:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-site/tags/cycling/</loc>
-    <lastmod>2025-08-09T12:00:00+01:00</lastmod>
+    <lastmod>2025-08-23T08:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-site/posts/</loc>
-    <lastmod>2025-08-09T12:00:00+01:00</lastmod>
+    <lastmod>2025-08-23T08:30:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-site/tags/</loc>
+    <lastmod>2025-08-23T08:30:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-site/posts/25-08-09_building-up-to-distance/</loc>
     <lastmod>2025-08-09T12:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-site/posts/25-08-05_first-cycle-in-years/</loc>
