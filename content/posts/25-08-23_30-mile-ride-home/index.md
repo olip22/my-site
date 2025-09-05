@@ -30,9 +30,29 @@ This meant we an extra 3 miles (4.8 km). This was the new route:
 | **Steepest Climb**   | 8.6%       |
 | **Est. Time**   | 3 hr 23 mins       |
 
+## The Ride
+### *Get up and leave + estimated arrival time + Set off and start*
 
+We got up early and left around 8:30 - I thought we could proabably get back by about 12-12:30 ish including our coffee break. It was a bit of a dull morning as we cycled off, but the sun just about poked through, not far above the horizon.
+
+My partner and I set off excited, but taking it easy and just chatting. It only took a few minutes for us t cycle out of our town, into places we didn't recognise.
+
+### *Saw a few places, had a few stops. Wild horses!*
+
+As we got further in, we had a few stops to take a drink, and have a look at the sights. We were feeling good, although we were already noticing how much time it adds to have to keep stopping to get our drinks from our bags. Although I liked the excuse to take in some of the lovely scenery we saw.
 
 ![Vanquish Carrera and classic road bike next to scenic pond rest stop](30-mile-ride-home_01.webp)
+*Our 2nd drink stop*
+
+We even went through a stretch with free roaming horses! A little daunting, but pretty cool.
+
+### *Half way vibes, need the cafe*
+
+*Cafe stop*
+
+*Last Leg*
+
+*Made it*
 
 |||
 | :----------- | :----------- |
@@ -41,3 +61,7 @@ This meant we an extra 3 miles (4.8 km). This was the new route:
 | **Knees**   | Not bad at all         |
 | **Destination goal**   | Just make it + get coffee       |
 | **Morale**   | Good - Tired - Worried about the return       |
+
+## The return?
+
+## Thoughts and What's Next?
