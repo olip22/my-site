@@ -17,9 +17,9 @@ After the short pub ride the other week, I wanted to have a go at a longer ride.
 
 ## The Route
 
-I had been getting excited about this ride, so I planning out four possible routes: two around 15 miles, and two closer to 30, all with café stops as a goal. 
+I had been getting excited about this ride, so I planned out four possible routes - two around 15 miles, and two closer to 30, all with café stops as a goal. 
 
-But after eating out the night before, we decided to switch things up and pack a picnic instead. We settled on a 25 km loop (about 15 miles). Hopefully we would be able to find a nice scenic place around halfway to stop for lunch.
+But after eating out the night before, we decided to switch things up and pack a picnic instead. We settled on a 25 km loop (about 15 miles). Hopefully, we would be able to find a nice scenic place around halfway to stop for lunch.
 
 ## The ride and picnic
 
@@ -40,11 +40,11 @@ The picnic halfway was a highlight — nothing fancy, just some reduced sandwich
 
 ## Fitness, Feeling, and Goals
 
-I’d expected more knee trouble, but managed better than I thought. The ride felt decently long, but the hills were tough — they drained my legs quickly and showed me how far I’ve got to go. I’m hoping my knees keep improving, and I’d love to get faster — hopefully get up to a  15 mph (24 kmh) average in the future.
+I’d expected more knee trouble, but managed better than I thought. The ride felt decently long, but the hills were tough — they drained my legs quickly and showed me how far I’ve got to go. I’m hoping my knees keep improving, and I’d love to get faster — hopefully get up to a  15 mph (24 km/h) average in the future.
 
 ## Gear Thoughts
 
-I’m definitely underprepared on gear. Everything just went into a rucksack, and I don’t even have a bottle holder yet. Not ideal, but it worked for now. Before tackling longer rides, I’ll need to sort out some basics: bottle cage, pannier rack (or something), and maybe some snacks.
+I’m definitely underprepared on gear. Everything just went into a rucksack, and I don’t even have a bottle holder yet. Not ideal, but it worked for now. Before tackling longer rides, I’ll need to sort out some basics - bottle cage, pannier rack (or something), and maybe some snacks.
 
 ## Conclusion and Next Steps
 
